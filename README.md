@@ -1,6 +1,15 @@
 # VidAMA
 
-### [AMA has never been easier.](https://github.com/CelesteComet/besthack)
+[Live Site](https://videoama.netlify.com/)
+
+**To test:**
+- Enter your name as 'host' to become the host (the main stream video)
+- Enter other names to become an audience
+- Audience can raise question, your name will be in the queue right after
+- Host can click on names in the queue to open video connection with the audience and talk with them
+- Host can click 'clear speaker' button to close video connection with audience
+
+### [AMA has never been easier.](https://videoama.netlify.com/)
 
 Collaborative video conferencing and audience participation at the touch of the button.
 
