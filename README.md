@@ -3,7 +3,7 @@
 [Live Site](https://videoama.netlify.com/)
 
 **To test:**
-- We need two different computers to test, or you can open many different tabs
+- You need two different computers to test, or you can open many different tabs
 - Enter your name as 'host' to become the host (the main stream video)
 - Enter other names to become an audience
 - Audience can raise question, your name will be in the queue right after
