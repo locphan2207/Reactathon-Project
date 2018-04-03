@@ -9,6 +9,7 @@
 - Audience can raise question, your name will be in the queue right after
 - Host can click on names in the queue to open video connection with the audience and talk with them
 - Host can click 'clear speaker' button to close video connection with audience
+- Pop-up video can be dragged to other position within the main stream region.
 
 ### [AMA has never been easier.](https://videoama.netlify.com/)
 
